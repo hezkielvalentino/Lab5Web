@@ -82,4 +82,4 @@ Hasil setelah di run programnya<p>
 ![Gambar26](screenshot/htmldom.png)
 
 
-~SELESAI!~
+SELESAI
