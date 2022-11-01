@@ -69,7 +69,7 @@ Hasil setelah di run programnya<p>
 <p>
 Form Button berfungsi untuk membuat sebuah tombol untuk mengubah tampilan contohnya seperti gambar di bawah ini<p>
 
-![Gambar22](screenshot/formbutton.png)<p>
+![Gambar22](screenshot/formbutton2.png)<p>
 Hasil setelah di run programnya<p>
 ![Gambar23](screenshot/formbuttonoutput.png)<p>
 Setelah diklik button yang lainnya<p>
